@@ -1,0 +1,18 @@
+.navbar {
+  /* background: linear-gradient(to right, #0f0c29, #302b63, #24243e); */
+  background: linear-gradient(to right, #5e8cff, #3f2b96, #24243e);
+  font-family: sans-serif;
+  position: fixed !important;
+  z-index: 1;
+  width: 100% !important;
+}
+
+/* .navbar-dark .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.89) !important;
+} */
+
+.menu-icon {
+  font-size: 23px !important;
+  color: white;
+  margin: 0 10px;
+}
